@@ -1,2 +1,44 @@
+html{
+	width:100vw;
+	height:100vh;
+}
+form{
+	border:1px solid black;
+	margin:20px;
+	padding:40px;
+	border-radius:10px
+}
 
-/* Your CSS Code here. */
+input{
+	margin-top:10px;
+	width:200px;
+	height:20px;
+	border-radius:5px;
+}
+legend{
+	margin-top:25px;
+}
+input[type='checkbox'] {
+	margin-left:-80px;
+	margin-top:40px;
+}
+input[type='radio'] {
+	width:20px;
+}
+button{
+background:#ffa118;
+	color:white;
+	border-radius:7px;
+	width:150px;
+	padding:10px;
+	font-size:20px;
+	font-weight:400;
+}
+
+
+
+
+
+
+
+
